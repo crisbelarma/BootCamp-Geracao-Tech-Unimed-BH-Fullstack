@@ -1,0 +1,5 @@
+Exercicios:
+
+Portas Gmail: SMTP: 587 POP:995
+Porta MySql: 3306
+Porrta Apache: 80
